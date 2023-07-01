@@ -202,7 +202,8 @@ Question 8:
 
  From a graph "Average percentage of population with mental illness vs Gender,2015-2019", women with both mental health problems are higher than men obviously.  
 
- ![image](https://github.com/SiriwanIm/Mini_Project_5001/assets/104783723/09e4b276-6c08-46f5-972e-ffae87fae585)
+![gender](https://github.com/SiriwanIm/Mini_Project_5001/assets/104783723/8a015118-2752-4915-b9e8-bb70a0210fe5)
+
 
  What about age? Among the young, teenage, mature, and elder, what is the age range that tends to face depression and anxiety? Responsibilities or hormones at each age may affect mental health. To prove it, we explore the percentage of people in each age range and gender who experience depression and anxiety worldwide.
 
