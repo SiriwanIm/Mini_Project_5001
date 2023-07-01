@@ -115,7 +115,8 @@ We use Wellcome Global Monitor (WGM) survey 2020 data to study. We count the num
 
 From graph "Score summary of  Importance of Mental Health For Well-Being survey", we find that people in the two most happiness ranks country, Denmark and Finland, think mental health is important as physical health for a person’s well-being. It indicated that people in more happiness ranks tend to place importance on mental health. However, people in all these countries think mental health is important as physical helth more than less important. It indicates that mental health is important for well-being in the perception of people in top rank happiness countries.
 
-![image](https://github.com/SiriwanIm/Mini_Project_5001/assets/104783723/db0f89ea-3461-4d74-9ea4-6cd180cbb983)
+![image](https://github.com/SiriwanIm/Mini_Project_5001/assets/104783723/e19c7b52-5e32-4a63-ae21-a73b8593666d)
+
 
 #### Part 3 : Study the factors affecting depression and anxiety problems
 
