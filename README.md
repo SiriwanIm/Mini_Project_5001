@@ -245,7 +245,7 @@ In addition, we study the effective actions to alleviate anxiety or depression. 
 
 * Low rate of people with depression in high happiness rank countries when compare with worldwide rate.
 * High rate of people with anxiety in high happiness rank countries when compare with worldwide rate.
-* People in high-happiness rank countries tend to think that mental health is important for well-being. In higher happiness rank, there are more people think it is importate.
+* People in high-happiness rank countries tend to think that mental health is important for well-being. In higher happiness rank, there are more people think it is important.
 * The relationship between the rate of people with depression and GDP per capita : Increasing GDP, Decreasing depression rate.
 * The relationship between the rate of people with anxiety and GDP per capita : Increasing GDP, Increasing anxiety rate.
 * Most worldwide people perceive the high corruption level in government and society even though there is no significant relationship between perception of corruption and mental health rate.
