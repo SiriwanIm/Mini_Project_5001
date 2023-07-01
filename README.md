@@ -202,7 +202,8 @@ Question 8:
 
  From a graph "Average percentage of population with mental illness vs Gender,2015-2019", women with both mental health problems are higher than men obviously.  
 
-![image](https://github.com/SiriwanIm/Mini_Project_5001/assets/104783723/1c89011a-b530-4ad9-933c-fc6c8cd7384f)
+![image](https://github.com/SiriwanIm/Mini_Project_5001/assets/104783723/d508b7d4-2d4c-4ec6-b0f3-388c0930b337)
+
 
 
 
